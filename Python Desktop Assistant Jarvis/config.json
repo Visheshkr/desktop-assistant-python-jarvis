@@ -1,0 +1,9 @@
+{
+    "params":
+    {
+        "sender_email":"sender email",
+        "sender_pass":"senderpassword",
+        "receiver_email":"receiver email",
+        "receiver_pass":"recevier password"
+    }
+}
